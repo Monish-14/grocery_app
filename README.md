@@ -1,5 +1,5 @@
-# grocery_app
+# Grocery_app
 
-Grocery app on going project expected completion by this weeek 
+Grocery app is an ongoing project . With expected completion by this weeek .
 
 
